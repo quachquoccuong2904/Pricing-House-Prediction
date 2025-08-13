@@ -1,13 +1,13 @@
 ## Giới thiệu
 
-Trong dự án lần này, em và đồng đội trong vai trò Data Scientist sẽ thực hiện xây dựng một quy trình hoàn chỉnh (end-to-end) để dự đoán giá nhà dựa trên dữ liệu thu thập từ trang web bất động sản. Dự án được chia thành nhiều bước, bao gồm cào dữ liệu (scraping), trích xuất đặc trưng từ mô hình LLM, làm sạch, và phân tích dữ liệu cũng như xây dựng mô hình dự đoán.
+Trong dự án lần này, em và thành viên nhóm trong vai trò Data Scientist sẽ thực hiện xây dựng một quy trình hoàn chỉnh (end-to-end) để dự đoán giá nhà dựa trên dữ liệu thu thập từ trang web bất động sản. Dự án được chia thành nhiều bước, bao gồm cào dữ liệu (scraping), trích xuất đặc trưng từ mô hình LLM, làm sạch, và phân tích dữ liệu cũng như xây dựng mô hình dự đoán.
 
 Nhiệm vụ của em trong dự án này với vai trò Data Analyst:
 - Chuẩn hóa giá trị trong các cột về một dạng nhất quán.
 - Làm sạch dữ liệu từ hai DataFrame và áp dụng các hàm để xử lý các giá trị thiếu hoặc không hợp lệ.
 - Khám phá dữ liệu giá nhà các quận/huyện trên khu vực thành phố Hồ Chí Minh nhằm rút ra những thông tin giá trị.
 - Sử dụng các phương pháp kiểm định, lựa chọn các đặc trưng quan trọng cho việc xây dựng mô hình.
-- Hỗ trợ đồng đội xây dựng và đánh giá mô hình.
+- Hỗ trợ thành viên nhóm xây dựng và đánh giá mô hình.
 
 ## Cấu trúc thư mục và mô tả các tệp tin chính
 
